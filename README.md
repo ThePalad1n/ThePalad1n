@@ -2,7 +2,7 @@
 - 👀 I’m interested in bots and cyber security
 - 🌱 I’m currently learning about coding for Windows operating systems
 - 💞️ I’m looking to collaborate on any python or JS project
-- 📫 How to reach me email at hmmm
+- 📫 How to reach me email at thepalad1ngithub@gmail.com
 
 <!---
 ThePalad1n/ThePalad1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
