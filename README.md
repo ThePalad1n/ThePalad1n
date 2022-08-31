@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThePalad1n
 - 👀 I’m interested in bots and cyber security
-- 🌱 I’m currently learning about coding for Windows operating systems
+- 🌱 I’m currently doing sic shit
 - 💞️ I’m looking to collaborate on any python or JS project
 - 📫 How to reach me email at thepalad1ngithub@gmail.com
 
