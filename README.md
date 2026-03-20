@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ThePalad1n
-- 👀 I’m interested in bots and AI
-- 🌱 I’m currently working with Deep Learning and Computer Vision
-- 💞️ I’m looking to collaborate on any python or JS project
-- 📫 How to reach me email at cheer.lucky.shoot@cloak.id
+- 👋 Hi, I’m @ThePalad1n.
 
 <!---
 ThePalad1n/ThePalad1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
